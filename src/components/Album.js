@@ -12,6 +12,8 @@ class Album extends Component {
     this.state = {
       album: album
     };
+
+    this.audioElement = document.createElement('audio');
   }
   render() {
     return (
