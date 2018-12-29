@@ -116,7 +116,7 @@ class Album extends Component {
     }
 
     formatVolume(percent) {
-      
+
     }
 
   render() {
