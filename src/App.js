@@ -16,6 +16,7 @@ class App extends Component {
           <Link to='/'> Landing</Link>
           <Link to='/library'> Library</Link>
         </nav>
+        <img src="http://pngimages.net/sites/default/files/music-note-png-image-99062.png" height="100" width="100"></img>
         <h1>Bloc Jams</h1>
       </header>
         <main>

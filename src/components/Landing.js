@@ -12,7 +12,7 @@ const Landing = () => (
         <p className="point-description">The world is full of music; why should you listen to music that someone else chose?</p>
       </div>
       <div className="point">
-        <h2 className="point-title">Unlimited, streming, ad-free</h2>
+        <h2 className="point-title">Unlimited, streaming, ad-free</h2>
         <p className="point-description">No arbitrary limits. No distractions.</p>
       </div>
       <div className="point">

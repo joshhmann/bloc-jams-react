@@ -1,0 +1,41 @@
+.landing {
+  background-color: rgb(58,23,63);
+}
+
+.hero-content {
+  position: relative;
+  min-height: 600px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.hero-content .hero-title {
+  position: absolute;
+  top: 40%;
+
+}
+
+.selling-points {
+  position: relative;
+}
+
+.point {
+  position: relative;
+  padding: 2rem;
+  text-align: center;
+
+
+
+}
+
+.point .point-title {
+  font-size: 1.25rem;
+}
+
+.ion-music-note,
+.ion-radio-waves,
+.ion-iphone {
+  color: rgb(233, 50, 117);
+  font-size: 5rem;
+}
