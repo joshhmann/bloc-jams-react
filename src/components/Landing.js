@@ -1,5 +1,6 @@
 import React from 'react';
 import "antd/dist/antd.css"
+import "./styles/Landing.css"
 
 const Landing = () => (
   <section className="landing">
